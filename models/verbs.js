@@ -5,7 +5,7 @@ var verbs = [
     'jump',
     'code',
     'love',
-    'eat',
+    'eat'
 ];
 
 module.exports = {};
